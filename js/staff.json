@@ -1,0 +1,27 @@
+[
+    {
+        "imgUrl":"./assets/Images/hombre (1).png",
+        "name": "Nicolás",
+        "tarea": "Tester QA"
+    },
+    {
+        "imgUrl":"./assets/Images/mujer1.png",
+        "name": "Florencia",
+        "tarea": "Beer Master"
+    },
+    {
+        "imgUrl":"./assets/Images/mujer2.png",
+        "name": "Milagros",
+        "tarea": "Marketing Specialist"
+    },
+    {
+        "imgUrl":"./assets/Images/hombre (2).png",
+        "name": "Damián",
+        "tarea": "Designer"
+    },
+    {
+        "imgUrl":"./assets/Images/hombre (3).png",
+        "name": "Pablo",
+        "tarea": "Supply Chain Manager"
+    }
+]
